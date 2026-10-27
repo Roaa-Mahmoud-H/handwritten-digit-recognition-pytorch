@@ -97,7 +97,3 @@ Open `Handwritten_Digit_Recognition_using_NN.ipynb` in Jupyter Notebook or Googl
 
 MNIST test accuracy does not guarantee the same performance on photos or handwriting styles outside MNIST. Uploaded images can differ in contrast, centering, thickness, and background. Future work could improve preprocessing, test on a separate real-world dataset, compare additional CNN architectures, and deploy the demo.
 
-## Author
-
-**Roaa Mahmoud**  
-Aspiring AI Engineer | Machine Learning | Deep Learning | Computer Vision
